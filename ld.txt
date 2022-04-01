@@ -7,7 +7,6 @@ admin.kerjasama
 wheel
 dev
 albert
-dtakola
 galsync
 vicky
 adminoke
