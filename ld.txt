@@ -1,16 +1,14 @@
 root
 admin
+terbatas
 clamav
 zimbra
-postmaster
 admin.kerjasama
 wheel
 dev
 albert
-galsync
 vicky
 adminoke
-terbatas
 coreadmin
 coresadmin
 project
