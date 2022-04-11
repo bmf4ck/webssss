@@ -1,15 +1,9 @@
 root
 admin
 terbatas
-clamav
 zimbra
-admin.kerjasama
-wheel
 dev
-albert
 vicky
-adminoke
 coreadmin
 coresadmin
 project
-service
